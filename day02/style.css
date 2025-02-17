@@ -1,0 +1,19 @@
+.marquee{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    border : 1px solid;
+}
+
+.marquee-text{
+    animation: scroll-left 10s linear infinite; 
+}
+
+@keyframes scroll-left {
+from {
+    transform: translateX(0%);
+}
+to {
+    transform: translateX(-100%);
+}
+}
