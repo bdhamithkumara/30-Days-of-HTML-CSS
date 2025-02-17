@@ -14,11 +14,13 @@ The repository is organized by day, with each day's challenge having its own fol
 *   `challenges.md`: The challenge description and requirements.
 *   `instructions.md`:  Any specific instructions or guidance for the challenge.
 
+```
 30-Days-of-HTML-CSS/
 ├── day-01/
 │   ├── index.html
 │   ├── challenges.md
 │   └── instructions.md
+```
 
 ## How to Use This Repository
 
