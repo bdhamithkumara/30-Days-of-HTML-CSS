@@ -11,6 +11,7 @@ The 30 Days of HTML CSS challenge on Codedamn is a fantastic way to learn and so
 The repository is organized by day, with each day's challenge having its own folder.  Inside each folder, you'll find:
 
 *   `index.html`: The HTML file for the challenge.
+*   `style.css`: The CSS file for the challenge.
 *   `challenges.md`: The challenge description and requirements.
 *   `instructions.md`:  Any specific instructions or guidance for the challenge.
 
@@ -18,6 +19,11 @@ The repository is organized by day, with each day's challenge having its own fol
 30-Days-of-HTML-CSS/
 ├── day-01/
 │   ├── index.html
+│   ├── challenges.md
+│   └── instructions.md
+├── day-02/
+│   ├── index.html
+│   ├── style.css
 │   ├── challenges.md
 │   └── instructions.md
 ```
