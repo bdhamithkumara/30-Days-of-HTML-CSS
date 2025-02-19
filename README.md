@@ -36,6 +36,11 @@ The repository is organized by day, with each day's challenge having its own fol
 │   ├── design [MOBILE].png
 │   ├── challenges.md
 │   └── instructions.md
+├── day-04/
+│   ├── index.html
+│   ├── style.css
+│   ├── challenges.md
+│   └── instructions.md
 ```
 
 ## How to Use This Repository
