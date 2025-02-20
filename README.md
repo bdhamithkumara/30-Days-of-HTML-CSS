@@ -41,6 +41,12 @@ The repository is organized by day, with each day's challenge having its own fol
 │   ├── style.css
 │   ├── challenges.md
 │   └── instructions.md
+├── day-05/
+│   ├── index.html
+│   ├── style.css
+│   ├── design.gif
+│   ├── challenges.md
+│   └── instructions.md
 ```
 
 ## How to Use This Repository
@@ -48,7 +54,7 @@ The repository is organized by day, with each day's challenge having its own fol
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/bdhamithkumara/30-Days-of-HTML-CSS](https://github.com/bdhamithkumara/30-Days-of-HTML-CSS)
+    git clone https://github.com/bdhamithkumara/30-Days-of-HTML-CSS
     ```
 
 2.  **Navigate to the Day's Folder:**
