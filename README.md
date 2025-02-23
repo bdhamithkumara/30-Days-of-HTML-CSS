@@ -62,6 +62,23 @@ The repository is organized by day, with each day's challenge having its own fol
 │   ├── style.css
 │   ├── design.png
 │   └── instructions.md
+├── day-08/
+│   ├── index.html
+│   ├── style.css
+│   ├── assets/
+│   │     ├── analytics.svg
+│   │     ├── comments.svg
+│   │     ├── courses.svg
+│   │     ├── dashboard.svg
+│   │     ├── discord.svg
+│   │     ├── documentation.svg
+│   │     ├── new-tab.svg
+│   │     ├── reviews.svg
+│   │     ├── settings.svg
+│   │     └── support.svg
+│   ├── design.png
+│   ├── challenges.md
+│   └── instructions.md
 ```
 
 ## How to Use This Repository
