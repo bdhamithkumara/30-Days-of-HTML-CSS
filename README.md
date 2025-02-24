@@ -79,6 +79,12 @@ The repository is organized by day, with each day's challenge having its own fol
 │   ├── design.png
 │   ├── challenges.md
 │   └── instructions.md
+├── day-09/
+│   ├── index.html
+│   ├── style.css
+│   ├── design.gif
+│   ├── challenges.md
+│   └── instructions.md
 ```
 
 ## How to Use This Repository
